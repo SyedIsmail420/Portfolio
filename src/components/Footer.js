@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaTwitter, FaArrowUp } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaArrowUp } from "react-icons/fa";
 
 export default function Footer() {
   // Function for smooth scroll
@@ -66,3 +66,4 @@ export default function Footer() {
     </footer>
   );
 }
+
